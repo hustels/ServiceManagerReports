@@ -1,0 +1,24 @@
+{
+  "name": "service_manager_reports",
+  "version": "1.0.0",
+  "description": "Web de Reportes Service Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hustels/ServiceManagerReports.git"
+  },
+  "keywords": [
+    "Informes",
+    "Service",
+    "Manager"
+  ],
+  "author": "Cheikh Ndiaye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hustels/ServiceManagerReports/issues"
+  },
+  "homepage": "https://github.com/hustels/ServiceManagerReports#readme"
+}
